@@ -1,2 +1,22 @@
 my_name = "Patricios"
 print("Hello and welcome "+my_name+"!crazy Magic")
+##message string excercise
+
+message_string = "An english muffin"
+
+# Printing out breakfast
+print("Breakfast:")
+print(message_string)
+
+# Now update meal to be lunch!
+message_string ="burger" 
+
+# Printing out lunch
+print("Lunch:")
+print(message_string)
+
+# Now update "meal" to be dinner
+message_string ="chicken" 
+# Printing out dinner
+print("Dinner:")
+print(message_string)
