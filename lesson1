@@ -1,4 +1,4 @@
-my_name = "Patricios"
+my_name = "Patricio"
 print("Hello and welcome "+my_name+"!crazy Magic")
 ##message string excercise
 
